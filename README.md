@@ -11,6 +11,8 @@ Retrieval augmented generation based on AVA Mistral 7B and Mistral 7B
 
 
 RAG + AVA Mistral 7B <img src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" height="40" width="50" >: https://youtu.be/chcEgQxqqcY
+
+
 RAG + Mistral 7B <img src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" height="40" width="50" >: [https://youtu.be/chcEgQxqqcY](https://youtu.be/mzTkIgK1AEc)
  
 
